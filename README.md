@@ -1,1 +1,2 @@
 # Campus-Network-System
+A University Campus Network project designed to enhance connectivity, security, and functionality for a multi-campus institution. Implemented using Cisco Packet Tracer, the project includes VLAN segmentation, routing protocols (RIPv2, static routing), a DHCP server, and security configurations to create dedicated IP networks for each department. The solution ensures efficient communication, resource sharing, and data privacy, benefiting both staff and students
